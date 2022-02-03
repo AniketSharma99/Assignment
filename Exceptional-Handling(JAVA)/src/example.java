@@ -34,7 +34,7 @@ public class example {
 		System.out.println("Enter amount you want to widthdraw :->");
 		 double withdraw=s.nextDouble();
 		 
-        // Use a try block with two catch block	//	 
+              // Use a try block with two catch block	 
 		try{
 			if(withdraw>balance)
 		   {
