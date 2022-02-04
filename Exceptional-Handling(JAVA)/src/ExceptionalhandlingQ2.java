@@ -22,3 +22,4 @@ public class ExceptionalhandlingQ2 {
 			}
 		}
 }
+//Question2
