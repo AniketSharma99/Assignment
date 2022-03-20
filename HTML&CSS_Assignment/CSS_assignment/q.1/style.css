@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(82, 151, 184);
+}
+
+.container {
+    background-color: rgb(99, 128, 151);
+}
+
+.container p {
+    background-color: lightblue;
+}
