@@ -4,7 +4,7 @@
 2) GIT&GITHUB
 3) JAVA(core java)
 4) Junit
-5) Spring Core,Spring MVC,Spring REST,Spring boot
+5) Spring Core,Spring MVC,Spring REST,Spring Boot
 6) Html & Css
 7) JavaScript
 ##### [Name:Aniket]
